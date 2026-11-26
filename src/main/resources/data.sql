@@ -1,0 +1,8 @@
+--INSERT INTO doctor
+--VALUES
+--    (3,'Dr.sneha kapoor','Dermatology','sneha@gmail.com'),
+--    (4,'Dr.Arjun nair','Orthopedics','arjun@gmail.com');
+--
+--INSERT INTO PATIENT
+--VALUES
+--(4,null,'luxmi','luxmi@gmail.com');
